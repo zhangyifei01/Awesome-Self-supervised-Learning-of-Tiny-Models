@@ -1,5 +1,7 @@
-# Awesome-Self-supervised-Distillation
-## 自监督蒸馏
+# Awesome-Self-supervised-Learning-of-Lightweight-Models
+## 轻量级模型自监督学习
+
+Note that this repository consists of **Distillation-based** methods (*aka. Self-supervised Distillation*) and **Non-distillation** methods.
 
 **[ Updating ...... ]**
 
@@ -38,6 +40,49 @@
     
     <font color=Gray><b>· · Author(s)</b>:</font> Kai Zheng, Yuanjiang Wang, Ye Yuan <br>
     <font color=Gray><b>· · Organization(s)</b>:</font>  Megvii Technology<br>
+
+***
+- On the Efficacy of Small Self-Supervised Contrastive Models without Distillation Signals (**** - <font color="#dd0000">**AAAI**22</font>) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20120)  [[code]](https://github.com/WOWNICE/ssl-small)
+    
+    <font color=Gray><b>· · Author(s)</b>:</font> Haizhou Shi, Youcai Zhang, Siliang Tang, Wenjie Zhu, Yaqian Li, Yandong Guo, Yueting Zhuang <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  OPPO Research Institute; Zhejiang University;  New York University <br>
+
+***
+- Attention Distillation: self-supervised vision transformer students need more guidance (**AttnDistill** - <font color="#dd0000">**BMVC**22</font>) [[paper]](https://arxiv.org/abs/2210.00944) [[code]](https://github.com/wangkai930418/attndistill)
+    
+    <font color=Gray><b>· · Author(s)</b>:</font> Kai Wang, Fei Yang, Joost van de Weijer <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Universitat Autònoma de Barcelona <br>
+
+***
+- Distilling Knowledge from Self-Supervised Teacher by Embedding Graph Alignment (**** - <font color="#dd0000">**BMVC**22</font>) [[paper not released]]()
+    
+    <font color=Gray><b>· · Author(s)</b>:</font> Yuchen Ma, Yanbei Chen, Zeynep Akata <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Heidelberg University; University of Tübingen <br>
+
+***
+- Dual-Level Knowledge Distillation via Knowledge Alignment and Correlation (**DLKD** - <font color="#dd0000">**TNNLS**22</font>) [[paper]](https://ieeexplore.ieee.org/document/9830618/)  [[code]](https://github.com/ifding/DLKD)
+    
+    <font color=Gray><b>· · Author(s)</b>:</font> Fei Ding, Yin Yang, Hongxin Hu, Venkat Krovi, Feng Luo <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Clemson University; University at Buffalo The State University of New York<br>
+    
+***
+- Pixel-Wise Contrastive Distillation (**PCD** - <font color="#dd0000">**arXiv**22</font>) [[paper]](https://arxiv.org/abs/2211.00218) 
+    
+    <font color=Gray><b>· · Author(s)</b>:</font> Junqiang Huang, Zichao Guo <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Shopee <br>
+
+***
+- Effective Self-supervised Pre-training on Low-compute networks without Distillation (**** - <font color="#dd0000">**arXiv**22</font>) [[paper]](https://arxiv.org/abs/2210.02808) 
+    
+    <font color=Gray><b>· · Author(s)</b>:</font> Fuwen Tan, Fatemeh Saleh, Brais Martinez <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Samsung AI Cambridge; Microsoft Research Cambridge <br>
+
+    
+***
+- A Closer Look at Self-supervised Lightweight Vision Transformers (**MAE-lite** - <font color="#dd0000">**arXiv**22</font>) [[paper]](https://arxiv.org/abs/2205.14443) 
+    
+    <font color=Gray><b>· · Author(s)</b>:</font> Shaoru Wang, Jin Gao, Zeming Li, Jian Sun, Weiming Hu <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>   Institute of Automation, Chinese Academy of Sciences; Megvii Technology; University of Chinese Academy of Sciences; CAS Center for Excellence in Brain Science and Intelligence Technology <br>
     
 
 ## 2021
@@ -79,6 +124,13 @@
     
     <font color=Gray><b>· · Author(s)</b>:</font> Jindong Gu, Wei Liu, Yonglong Tian <br>
     <font color=Gray><b>· · Organization(s)</b>:</font>  University of Munich; Tencent; MIT <br>
+
+
+***
+- Self-Supervised Visual Representation Learning Using Lightweight Architectures  (**** - <font color="#dd0000">**arXiv**21</font>) [[paper]](https://arxiv.org/abs/2110.11160) 
+    
+    <font color=Gray><b>· · Author(s)</b>:</font> Prathamesh Sonawane, Sparsh Drolia, Saqib Shamsi, Bhargav Jain <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Pune Institute of Computer Technology; Whirlpool Corporation <br>
     
 
 ## 2020
