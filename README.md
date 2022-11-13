@@ -1,5 +1,5 @@
-# Awesome-Self-supervised-Learning-of-Lightweight-Models
-## 轻量级模型自监督学习
+# Awesome-Self-supervised-Learning-of-Tiny-Models
+## 小模型自监督学习
 
 Note that this repository consists of **Distillation-based** methods (*aka. Self-supervised Distillation*) and **Non-distillation** methods.
 
@@ -21,6 +21,12 @@ Note that this repository consists of **Distillation-based** methods (*aka. Self
     
     <font color=Gray><b>· · Author(s)</b>:</font> Yuting Gao, Jia-Xin Zhuang, Shaohui Lin, Hao Cheng, Xing Sun, Ke Li, Chunhua Shen <br>
     <font color=Gray><b>· · Organization(s)</b>:</font>  Tencent Youtu Lab; Hong Kong University of Science and Technology; East China Normal University; Zhejiang University <br>
+
+***
+- Unsupervised Representation Learning for Binary Networks by Joint Classifier Learning (**BURN** - <font color="#dd0000">**CVPR**22 </font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Unsupervised_Representation_Learning_for_Binary_Networks_by_Joint_Classifier_Learning_CVPR_2022_paper.html) [[code]](https://github.com/naver-ai/burn)
+    
+    <font color=Gray><b>· · Author(s)</b>:</font> Dahyun Kim, Jonghyun Choi <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Upstage AI Research; NAVER AI Lab.; Yonsei University <br>
 
 ***
 - Bag of Instances Aggregation Boosts Self-supervised Distillation (**BINGO** - <font color="#dd0000">**ICLR**22</font>) [[paper]](https://openreview.net/forum?id=N0uJGWDw21d) [[code]](https://github.com/haohang96/bingo)
@@ -86,6 +92,12 @@ Note that this repository consists of **Distillation-based** methods (*aka. Self
     
 
 ## 2021
+
+***
+- S^2-BNN: Bridging the Gap Between Self-Supervised Real and 1-bit Neural Networks via Guided Distribution Calibration (**S^2-BNN** - <font color="#dd0000">**CVPR**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Shen_S2-BNN_Bridging_the_Gap_Between_Self-Supervised_Real_and_1-Bit_Neural_CVPR_2021_paper.html) [[code]](https://github.com/szq0214/S2-BNN)
+    
+    <font color=Gray><b>· · Author(s)</b>:</font> Zhiqiang Shen, Zechun Liu, Jie Qin, Lei Huang, Kwang-Ting Cheng, Marios Savvides <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font>  Carnegie Mellon University; Hong Kong University of Science and Technology; Inception Institute of Artificial Intelligence <br>
 
 ***
 - Distill on the Go: Online Knowledge Distillation in Self-Supervised Learning (**DoGo** - <font color="#dd0000">**CVPRW**21</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/LLID/html/Bhat_Distill_on_the_Go_Online_Knowledge_Distillation_in_Self-Supervised_Learning_CVPRW_2021_paper.html) 
@@ -154,7 +166,7 @@ Note that this repository consists of **Distillation-based** methods (*aka. Self
 
 ### **Some Related Influential Repositories**    </details>
 ***
-- awesome-self-supervised-learning (star 5.2k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
+- awesome-self-supervised-learning (star 5.3k)  [[link]](https://github.com/jason718/awesome-self-supervised-learning)
 
 - Awesome-Knowledge-Distillation (star 2k) [[link]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 
