@@ -172,6 +172,10 @@ Note that this repository consists of **Distillation-based** methods (*aka. Self
 
 - DeepClustering (star 2k) [[link]](https://github.com/zhoushengisnoob/DeepClustering)
 
+- awesome-AutoML-and-Lightweight-Models (star 784) [[link]](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
+
+- awesome_lightweight_networks (star 540) [[link]](https://github.com/murufeng/awesome_lightweight_networks)
+
 
 Thanks for the support of Prof. [Yu Zhou](https://people.ucas.ac.cn/~yuzhou).
 
